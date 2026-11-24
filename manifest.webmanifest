@@ -1,0 +1,9 @@
+{
+  "name": "HIGGSFIELD 2.0",
+  "short_name": "HIGGSFIELD",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0c12",
+  "theme_color": "#11111a",
+  "description": "Unified local AI planning and memory workspace"
+}
